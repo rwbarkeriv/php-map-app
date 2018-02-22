@@ -1,0 +1,3 @@
+index:
+  path: /home/index
+  controller: App\Controller\IndexController::index
