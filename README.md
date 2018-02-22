@@ -1,4 +1,4 @@
-#Symfony Google Maps App
+# Symfony Google Maps App
 Geolocation app for PHP Frameworks course
 
 # References
